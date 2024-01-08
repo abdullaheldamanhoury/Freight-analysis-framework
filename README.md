@@ -1,3 +1,7 @@
+### Technologies
+* PySpark
+* Spark ML, Matplotlib, Seaborn
+  
 ### Baseline Scenario
 
 The Freight Analysis Framework (FAF) integrates data from a variety of sources to create a comprehensive national picture of freight movements among states and major metropolitan areas by all modes of transportation. It provides a national picture of current freight flows to, from, and within the United States, assigns the flows to the transportation network, and projects freight flow patterns into the future. The FAF flow matrix described in this report is to forecast future freight shipment weights . The FAF Forecasts must to be driven by the most up to date macroeconomic assumptions on the short- and long-term trends of the United States .
